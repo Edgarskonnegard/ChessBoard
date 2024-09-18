@@ -1,4 +1,9 @@
-﻿namespace ConsoleApp1
+﻿/*  -------------------------------
+ *  Inlämning 2, 22 September SUT24
+ *  Edgar Skönnegård
+ *  -------------------------------
+ */
+namespace ConsoleApp1
 {
     internal class Program
     {
